@@ -2,7 +2,7 @@
     "name": "jamesmontalvo3/rdbms-tree-reader",
     "type": "library",
     "description": "A simple PHP API for dealing with parent-child rows in MS SQL Server.",
-    "keywords": ["tree","SQL Server"],
+    "keywords": ["tree","SQL"],
     "homepage": "https://github.com/jamesmontalvo3/rdbms-tree-reader",
     "license": "MIT",
     "authors": [
